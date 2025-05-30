@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, Im Liridon!
 
-<!--
-**NewToCoding26/NewToCoding26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="928" alt="Portfolio" src="https://github.com/user-attachments/assets/fe3ebd60-c0ef-431d-acaf-6cd7a26f9a84" /> <br/>
 
-Here are some ideas to get you started:
+🧑🏻‍🎓Curently studiyng CS in Düsseldorf at the Heinrich-Heine-Universität <br/> <br/>
+💻Learning my self how to code since one year, HTML, CSS and JS on my Portffolio you can see what i am learniing right now. <br/> <br/>
+🌐Visit my Portfolio: LINKVONPORTFOLIO <br/> <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
+![Liridon's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewToCoding26&show_icons=true&theme=gruvbox_light) <br/>
+
+
+
