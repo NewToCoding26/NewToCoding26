@@ -1,6 +1,7 @@
 ### Hi, Im Liridon!
 
-<img width="928" alt="Portfolio" src="https://github.com/user-attachments/assets/fe3ebd60-c0ef-431d-acaf-6cd7a26f9a84" /> <br/>
+![Screenshot 2025-05-30 103422](https://github.com/user-attachments/assets/f582b5ff-283f-4e9d-86ae-606d5ec88323) <br/>
+
 
 🧑🏻‍🎓Curently studiyng CS in Düsseldorf at the Heinrich-Heine-Universität <br/> <br/>
 💻Learning my self how to code since one year, HTML, CSS and JS on my Portffolio you can see what i am learniing right now. <br/> <br/>
