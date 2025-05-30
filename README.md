@@ -5,7 +5,7 @@
 
 🧑🏻‍🎓Curently studiyng CS in Düsseldorf at the Heinrich-Heine-Universität <br/> <br/>
 💻Learning my self how to code since one year, HTML, CSS and JS on my Portffolio you can see what i am learniing right now. <br/> <br/>
-🌐Visit my Portfolio: LINKVONPORTFOLIO <br/> <br/>
+🌐Visit my Portfolio: [LINKVONPORTFOLIO](https://newtocoding26.github.io/Portfolio_LiridonDrenica/Portfolio.html) <br/> <br/>
 
 # 💻Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style-for-the-badge&logo=html5&logoColor=white)
